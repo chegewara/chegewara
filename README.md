@@ -1,11 +1,9 @@
 
-![Profile views](https://gpvc.arturio.dev/chegewara)  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chegewara&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=chegewara)  
 
-![GitHub metrics](https://metrics.lecoq.io/chegewara)  
+![GitHub metrics](https://metrics.lecoq.io/insights/chegewara)  
 
 <!--
 **chegewara/chegewara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
